@@ -1,4 +1,4 @@
-const myVar = "JavaScript is amazing"; // Declared here
+const myVar = "JavaScript is amazing";
 
 console.log("JavaScript is amazing");
-console.log(myVar); // Used here, not declared again
+console.log(myVar); 
