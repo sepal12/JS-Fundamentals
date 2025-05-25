@@ -1,4 +1,4 @@
-// Script that prints a message depending on the number of arguments
+
 
 const args = process.argv.slice(2);
 
